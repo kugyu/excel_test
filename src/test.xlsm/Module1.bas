@@ -2,5 +2,5 @@ Attribute VB_Name = "Module1"
 Option Explicit
 
 Sub button_Click()
-    MsgBox "‚¨‚µI"
+    MsgBox "‚¨‚µ¬Œ÷I"
 End Sub
